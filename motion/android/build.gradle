@@ -29,7 +29,7 @@ android {
         namespace 'me.cendre.motion.plugin'
     }
     
-    compileSdkVersion 31
+    compileSdkVersion 36
 
     defaultConfig {
         minSdkVersion 16
